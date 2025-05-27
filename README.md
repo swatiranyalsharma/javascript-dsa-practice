@@ -20,9 +20,9 @@ Feel free to fork and add more problems/solutions. Suggestions are welcome!
 
 | Topic         | Problem                      | Status         |
 |---------------|------------------------------|--------------- |
-| Arrays        | Frequency Counter            | ✅ Done  |
+| Arrays        | Frequency Counter            | ✅ Done        |
 | Strings       | Frequency Counter - Anagram  | ✅ Done        |
-| Arrays        | Two Sum                      | 🔄 In Progress |
+| Arrays        | Two Sum                      | ✅ Done        |
 
 ##Set of problems of - Frequency counter + Hashmap-based string problems + Variants of anagram/sameFrequency (26 May - 30 May) 🔄 In Progress 
 https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-of-anagram-sameFrequency-26-May-30-M-1fec03d1df9380798da0e21644af57a0
