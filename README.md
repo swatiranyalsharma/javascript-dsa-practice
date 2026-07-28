@@ -82,6 +82,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,6 +102,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
