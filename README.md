@@ -64,6 +64,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +93,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
