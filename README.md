@@ -72,6 +72,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -119,6 +121,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
 | ------- |
