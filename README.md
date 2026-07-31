@@ -61,6 +61,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
@@ -111,4 +112,12 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
