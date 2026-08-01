@@ -142,4 +142,20 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
+## Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
