@@ -100,6 +100,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -145,10 +146,12 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -157,5 +160,6 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
