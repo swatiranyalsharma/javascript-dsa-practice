@@ -36,6 +36,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Linked List
 |  |
@@ -194,4 +195,8 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
