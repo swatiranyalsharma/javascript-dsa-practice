@@ -41,6 +41,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
@@ -199,4 +200,8 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
