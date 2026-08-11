@@ -44,10 +44,12 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0021-merge-two-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -57,6 +59,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +96,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
@@ -139,6 +143,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Simulation
