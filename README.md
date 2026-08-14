@@ -1,6 +1,118 @@
-# (JavaScript + Java) DSA Practice
+<img width="3764" height="2176" alt="image" src="https://github.com/user-attachments/assets/94edfea6-1557-43b7-8411-4943cbd43d2b" />
 
+# (JavaScript + Java) DSA Practice
+##Introduction 🌟
+Data Structures and Algorithms are the foundation of efficient software development and technical problem solving.
+
+This repository is a collection of implementations and problems that I am solving while strengthening my understanding of DSA.
+
+It focuses on:
+
+Understanding concepts rather than memorizing solutions
+Implementing data structures from scratch
+Learning common problem-solving patterns
+Understanding time and space complexity
+Practicing problems commonly asked in technical interviews
+Improving the ability to derive solutions independently
+
+The goal is not just to solve problems, but to understand why the solution works.
 🚀 This repository contains data structure and algorithm problems solved in JavaScript and Java. Each problem is categorized and includes clean code with comments for understanding.
+
+🧩 Problem-Solving Approach
+
+For every problem, the focus is on following a structured approach:
+
+1. Understand the problem
+        ↓
+2. Identify constraints
+        ↓
+3. Think of the brute-force solution
+        ↓
+4. Identify the bottleneck
+        ↓
+5. Find the appropriate pattern/data structure
+        ↓
+6. Optimize the solution
+        ↓
+7. Analyze Time & Space Complexity
+        ↓
+8. Test edge cases
+
+The intention is to develop the ability to recognize patterns rather than memorize individual solutions.
+
+⏱️ Time & Space Complexity
+
+Understanding complexity is an important part of every solution.
+
+Common complexities:
+
+Complexity	Example
+O(1)	HashMap lookup (average case)
+O(log n)	Binary Search
+O(n)	Array traversal
+O(n log n)	Merge Sort
+O(n²)	Nested loops
+O(2ⁿ)	Some backtracking problems
+O(n!)	Permutations
+
+Each solution should aim to clearly identify:
+
+Time Complexity
+Space Complexity
+Why the complexity occurs
+🎯 Interview Preparation
+
+This repository is designed to support preparation for technical interviews.
+
+The focus areas include:
+
+Problem-solving fundamentals
+Data Structures
+Algorithms
+Common interview patterns
+Optimization
+Complexity analysis
+Edge-case handling
+
+The ultimate goal is to be able to approach an unfamiliar problem and systematically derive a solution.
+
+🚀 How to Use This Repository
+
+If you're learning DSA, a recommended approach is:
+
+Step 1 — Learn the Data Structure
+
+Understand:
+
+What it is
+How it works
+When to use it
+Its operations
+Time complexity
+Step 2 — Implement It
+
+Implement the data structure yourself instead of relying only on library implementations.
+
+Step 3 — Solve Basic Problems
+
+Start with simple problems to understand how the structure is used.
+
+Step 4 — Learn Patterns
+
+Identify reusable patterns such as:
+
+Two Pointers
+Sliding Window
+Prefix Sum
+Binary Search
+Fast & Slow Pointer
+DFS / BFS
+Backtracking
+Greedy
+Dynamic Programming
+Step 5 — Solve Medium & Hard Problems
+
+Once the fundamentals are clear, move toward more challenging problems and interview-style questions.
 
 ## 📁 Folder Structure
 arrays
