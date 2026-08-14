@@ -94,6 +94,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0148-sort-list) |
@@ -101,6 +102,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
@@ -119,6 +121,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0344-reverse-string) |
@@ -209,4 +212,8 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0021-merge-two-sorted-lists) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
