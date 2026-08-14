@@ -1,7 +1,7 @@
 <img width="3764" height="2176" alt="image" src="https://github.com/user-attachments/assets/94edfea6-1557-43b7-8411-4943cbd43d2b" />
 
 # (JavaScript + Java) DSA Practice
-##Introduction 🌟
+#Introduction 🌟
 Data Structures and Algorithms are the foundation of efficient software development and technical problem solving.
 
 This repository is a collection of implementations and problems that I am solving while strengthening my understanding of DSA.
