@@ -23,19 +23,19 @@ The goal is not just to solve problems, but to understand why the solution works
 For every problem, the focus is on following a structured approach:
 
 1. Understand the problem
-        ↓
+        
 2. Identify constraints
-        ↓
+        
 3. Think of the brute-force solution
-        ↓
+        
 4. Identify the bottleneck
-        ↓
+        
 5. Find the appropriate pattern/data structure
-        ↓
+        
 6. Optimize the solution
-        ↓
+        
 7. Analyze Time & Space Complexity
-        ↓
+        
 8. Test edge cases
 
 The intention is to develop the ability to recognize patterns rather than memorize individual solutions.
