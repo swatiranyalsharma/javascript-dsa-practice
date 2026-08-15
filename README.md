@@ -184,6 +184,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [1094-car-pooling](https://github.com/swatiranyalsharma/dsa-practice/tree/master/1094-car-pooling) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ https://www.notion.so/Frequency-counter-Hashmap-based-string-problems-Variants-o
 |  |
 | ------- |
 | [0078-subsets](https://github.com/swatiranyalsharma/dsa-practice/tree/master/0078-subsets) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swatiranyalsharma/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
